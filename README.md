@@ -1,4 +1,4 @@
-# monodepth-estimation
+# Monocular Depth Estimation
 
 Real time monocular depth estimation using MiDas (Mixing Datasets for Zero-shot Cross-dataset Transfer). 
 This small project makes use of your webcam in a real time fashion, showing whatever you want on the webcam alongside the generated depth maps. 
